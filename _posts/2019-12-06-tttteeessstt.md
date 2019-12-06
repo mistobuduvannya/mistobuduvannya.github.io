@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Привет""
-author: ГІЗ
+title:  "Привет"
 categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg
 tags: [sticky]
