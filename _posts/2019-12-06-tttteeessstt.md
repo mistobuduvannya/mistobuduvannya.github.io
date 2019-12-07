@@ -4,7 +4,7 @@ title:  "Привет"
 author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg
-tags: [sticky]
+tags: [test]
 ---
 
 Рлапок жлдопджлкоп джлкоп к
